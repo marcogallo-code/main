@@ -1088,6 +1088,7 @@ https://templatemo.com/tm-593-personal-shape
         .submit-btn:hover {
             transform: translateY(-3px);
             box-shadow: 0 20px 40px rgba(99, 102, 241, 0.3);
+            background: var(--gradient-secondary);
         }
 
         /* Animation Classes */
