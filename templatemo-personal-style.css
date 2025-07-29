@@ -775,15 +775,15 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(1) .portfolio-image {
-            background-image: url('images/MarcoGalloFoto.jpg');
+            background-image: url('images/EMS_blocks.png');
         }
 
         .portfolio-item:nth-child(2) .portfolio-image {
-            background-image: url('images/MarcoGalloFoto.jpg');
+            background-image: url('images/PEBB_cluster.png');
         }
 
         .portfolio-item:nth-child(3) .portfolio-image {
-            background-image: url('images/MarcoGalloFoto.jpg');
+            background-image: url('images/LSTM.png');
         }
 
         .portfolio-item:nth-child(4) .portfolio-image {
@@ -791,11 +791,11 @@ https://templatemo.com/tm-593-personal-shape
         }
 
         .portfolio-item:nth-child(5) .portfolio-image {
-            background-image: url('images/MarcoGalloFoto.jpg');
+            background-image: url('images/Elettra.jpg');
         }
 
         .portfolio-item:nth-child(6) .portfolio-image {
-            background-image: url('images/MarcoGalloFoto.jpg');
+            background-image: url('images/SmartPort.png');
         }
 
         .portfolio-image::before {
