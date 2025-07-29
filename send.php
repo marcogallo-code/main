@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $to = "tua@email.com"; // 🔧 INSERISCI QUI la tua email
+    $to = "marco.paolo.gallo@gmail.com"; // 🔧 INSERISCI QUI la tua email
     $subject = "New message from your portfolio website";
 
     $name = strip_tags(trim($_POST["name"]));
